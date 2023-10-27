@@ -4,5 +4,5 @@ ____
 Ссылка на профиль stepik:
 https://stepik.org/users/654738571/profile
 ____
-[Сайт](https://marina-tri.github.io/marina-trifonova-ib-site/main.html)
+[Сайт](https://marina-tri.github.io/marina-trifonova-ib-site/main.html)<br>
 [Репозиторий сайта](https://github.com/Marina-Tri//marina-trifonova-ib-site)
