@@ -7,8 +7,5 @@ ____
 Ссылка на скрины заданий 1 модуля Python:
 https://docs.google.com/document/d/12zFci-dK549U-a5OIqMlETVRJfGO4DRrS86TnLf_wK4/edit?usp=drivesdk
 ____
-[Сайт](https://marina-tri.github.io/marina-trifonova-ib-site/main.html)<br>
-[Репозиторий сайта](https://github.com/Marina-Tri//marina-trifonova-ib-site)
-____
 Практика:
 https://drive.google.com/drive/folders/1T0ukY3JPIuW0WAcndi22cXvnQ4yqcc0p
